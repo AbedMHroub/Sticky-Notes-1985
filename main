@@ -34,8 +34,7 @@ int main() {
                      << " .\n<Click Enter to return to main menu>.\n"
 //string filename=   ;   **first name+last name
                 cout << "Enter user name";
-                cin >> filename;
-                ofstream myfile;
+                
                 myfile.open ("filename.txt");
                 myfile << "Writing this to a file.\n";
                 myfile << "000" << filename;
