@@ -34,7 +34,7 @@ int main() {
                      << " Done!.\n"
                      << " Nice to meet you .\n"<<first_name<<" "<<last_name
                      << " .\n<Click Enter to return to main menu>.\n";
-<<<<<<< HEAD
+
 
                 string filename=  first_name+" "+last_name;
                 cout <<filename;
@@ -44,13 +44,9 @@ int main() {
                 myfile << "Writing this to a file.\n";
                 myfile << "000" << filename;
                 myfile.close();
-=======
-//string filename=   ;   **first name+last name
-                cout << "Enter user name";
-                
-               
-				   }
->>>>>>> 56ff2095387f9f2018d5e2b36d599f4e641aa94e
+
+
+
 
                 break;
 				//code to Add new note
@@ -58,7 +54,7 @@ int main() {
 			case 2:
 				{
 					string First_Name ,Last_Name;
-				cout <<" Let’s add a new note ... \n"
+				cout <<" Letï¿½s add a new note ... \n"
 <<"Please enter your full name first: <Enter First Name> <Enter Last Name> \n";
 				cin>> First_Name>>Last_Name;
 				for (int i = 0; i < all_user.size(); i++) { 

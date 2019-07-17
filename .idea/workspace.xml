@@ -34,12 +34,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0a4643a-742c-4932-a18a-1422c3c83531" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028-cvtres.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028-cvtres.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028-rc.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028-rc.write.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028.read.1.tlog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Source.cpp" afterDir="false" />
     </list>
     <ignored path="$USER_HOME$/CLionProjects/untitled1/cmake-build-debug/" />
@@ -55,16 +50,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project16/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Source.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="280">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -215,15 +213,15 @@
       <updated>1563304255475</updated>
       <workItem from="1563304257135" duration="265000" />
       <workItem from="1563304552303" duration="1992000" />
-      <workItem from="1563356986150" duration="2643000" />
+      <workItem from="1563356986150" duration="3267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4900000" />
+    <option name="totallyTimeSpent" value="5524000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23154363" />
@@ -263,15 +261,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Source.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project16/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Source.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
