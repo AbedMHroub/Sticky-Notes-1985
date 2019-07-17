@@ -1,0 +1,62 @@
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+int main() {
+
+    int choice;
+    do
+    {
+        cout << endl
+             << "Welcome to the brand new “Sticky Notes”!.\n"
+             << "Here is the list of operation this program offers:.\n"
+             << " 1 - Add new user.\n"
+             << " 2 - Add new note.\n"
+             << " 2 - View notes for a specific user.\n"
+             << " 4 - Exit.\n"
+             << " Enter your choice and press return: ";
+        cin >> choice;
+
+        switch (choice)
+        {
+            case 1:
+//code to Add new user
+                cout << endl
+                     << "Welcome aboard new user!.\n"
+                     << "Please let me know your first name:.\n";
+                cin >> first_name;
+                cout << endl
+                     << "Great "<<first_name<<" , now please enter your last name:";
+                cin >> last_name;
+                cout << endl
+                     << " Done!.\n"
+                     << " Nice to meet you .\n"<<first_name<<" "<<last_name
+                     << " .\n<Click Enter to return to main menu>.\n"
+//string filename=   ;   **first name+last name
+                cout << "Enter user name";
+                
+                myfile.open ("filename.txt");
+                myfile << "Writing this to a file.\n";
+                myfile << "000" << filename;
+                myfile.close();
+
+                break;
+            case 2:
+//code to  Add new note
+                break;
+            case 3:
+//code to View notes for a specific user
+                break;
+            case 4:
+//code to Exit//extra information about the mode and the controller
+                break;
+
+            default:
+                cout << "Not a Valid Choice. \n"
+                     << "Choose again.\n";
+                break;
+        }
+
+    }while (choice !=5);
+    return 0;
+}
