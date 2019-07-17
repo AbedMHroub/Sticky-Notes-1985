@@ -1,9 +1,9 @@
 #include <iostream>
 #include <String>
-
+#include<vector>
 #include <fstream>
 using namespace std;
-
+ vector<vector<string> > all_user;
 int main() {
 
     int choice;
@@ -20,7 +20,7 @@ int main() {
 
         switch (choice)
         {
-            case 1:
+            case 1:{
 //code to Add new user
                 cout << endl
                      << "Welcome aboard new user!.\n"
@@ -38,8 +38,21 @@ int main() {
                 cout << "Enter user name";
                 
                
+				   }
 
                 break;
+				//code to Add new note
+
+			case 2:
+				{
+					string First_Name ,Last_Name;
+				cout <<" Let’s add a new note ... \n"
+<<"Please enter your full name first: <Enter First Name> <Enter Last Name> \n";
+				cin>> First_Name>>Last_Name;
+
+				
+				}
+				break;
            
     return 0;
 }
