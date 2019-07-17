@@ -49,7 +49,11 @@ int main() {
 				cout <<" Let’s add a new note ... \n"
 <<"Please enter your full name first: <Enter First Name> <Enter Last Name> \n";
 				cin>> First_Name>>Last_Name;
-
+				for (int i = 0; i < all_user.size(); i++) { 
+        for (int j = 0; j < all_user[i].size(); j++) 
+            cout << all_user[i][j] << " "; 
+        cout << endl; 
+    } 
 				
 				}
 				break;
