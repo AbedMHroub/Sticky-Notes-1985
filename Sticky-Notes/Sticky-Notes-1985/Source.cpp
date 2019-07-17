@@ -9,7 +9,7 @@ int main() {
     int choice;
     
         cout << endl
-             << "Welcome to the brand new “Sticky Notes”!.\n"
+             << "Welcome to the brand new ï¿½Sticky Notesï¿½!.\n"
              << "Here is the list of operation this program offers:.\n"
              << " 1 - Add new user.\n"
              << " 2 - Add new note.\n"
@@ -25,7 +25,7 @@ int main() {
                 cout << endl
                      << "Welcome aboard new user!.\n"
                      << "Please let me know your first name:.\n";
-				string first_name,last_name ;
+                string first_name,last_name,file_name ;
                 cin >> first_name;
                 cout << endl
                      << "Great "<<first_name<<" , now please enter your last name:";
@@ -34,10 +34,15 @@ int main() {
                      << " Done!.\n"
                      << " Nice to meet you .\n"<<first_name<<" "<<last_name
                      << " .\n<Click Enter to return to main menu>.\n";
-//string filename=   ;   **first name+last name
-                cout << "Enter user name";
-                
-               
+
+                string filename=  first_name+" "+last_name;
+                cout <<filename;
+
+                ofstream myfile;
+                myfile.open ("filename.txt");
+                myfile << "Writing this to a file.\n";
+                myfile << "000" << filename;
+                myfile.close();
 
                 break;
            
