@@ -34,6 +34,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0a4643a-742c-4932-a18a-1422c3c83531" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028-cvtres.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028-cvtres.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028-rc.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028-rc.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Debug/link.4028.write.1.tlog" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Source.cpp" afterDir="false" />
     </list>
     <ignored path="$USER_HOME$/CLionProjects/untitled1/cmake-build-debug/" />
@@ -49,12 +55,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project16/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sticky-Notes/Sticky-Notes-1985/Source.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -66,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
+            <state relative-caret-position="392">
               <caret line="53" column="15" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
             </state>
           </provider>
@@ -99,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -143,12 +149,21 @@
           <expand>
             <path>
               <item name="untitled1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Abed AL-Fattah Hroub\CLionProjects\untitled1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\Abed AL-Fattah Hroub\CLionProjects\untitled1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="untitled1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\Abed AL-Fattah Hroub\Documents\GitHub\Sticky-Notes-1985" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
               <item name="untitled1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\Abed AL-Fattah Hroub\Documents\GitHub\Sticky-Notes-1985" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Project16" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Sticky-Notes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -157,6 +172,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/CLionProjects/untitled1/CMakeLists.txt" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -199,24 +215,24 @@
       <updated>1563304255475</updated>
       <workItem from="1563304257135" duration="265000" />
       <workItem from="1563304552303" duration="1992000" />
-      <workItem from="1563356986150" duration="2014000" />
+      <workItem from="1563356986150" duration="2643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4271000" />
+    <option name="totallyTimeSpent" value="4900000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23154363" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23154363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -240,12 +256,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Project16/Project16/Project16.vcxproj" />
     <entry file="file://$PROJECT_DIR$/Project16/Project16/main.cpp" />
-    <entry file="file://$PROJECT_DIR$/Project16/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/main">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
+        <state relative-caret-position="392">
           <caret line="53" column="15" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
         </state>
       </provider>
@@ -256,6 +269,9 @@
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project16/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
